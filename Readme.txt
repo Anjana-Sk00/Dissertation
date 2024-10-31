@@ -1,6 +1,7 @@
-Comparative Analysis of Frame-Based and Optical Flow-Based Emotion Recognition Methods Using Facial Video Datasets
+# Comparative Analysis of Frame-Based and Optical Flow-Based Emotion Recognition Methods Using Facial Video Datasets
 
-Project Overview
+# Project Overview
+
 This project investigates two primary methods for emotion recognition using facial video datasets: a frame-based approach and an optical flow-based approach. The analysis leverages the RAVDESS dataset and aims to compare the effectiveness of these approaches in capturing and classifying human emotions. The key focus is on understanding how temporal features influence model performance in emotion recognition tasks.
 
 Methodologies
